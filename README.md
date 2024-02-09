@@ -1,4 +1,5 @@
 /*------------ Header---------*/
+------------------------------------------------<br>
 Namrata Gurjar
 Home About skills protfolio
 
@@ -7,7 +8,7 @@ Hi, I'm Namrata Gurjar
 Web Developer
 A Fast Learner With A Passion For Technology, And A Strong Desire To Learn And Implement It. Possess A Curious Mind To Explore New Possibilities And Act On Them.
 
-/*-----about------*/
+/*-----about------*/<br>
 
 I'm Namrata Gurjar, A Passionate MCA Student At NIT Raipur, Currently Holding A CGPA Of 6.96.
 My Journey In The World Of Technology Revolves Around Web Development, Where I've Honed My Skills In HTML, CSS, And JavaScript.
@@ -16,11 +17,11 @@ Fueled By A Commitment To Continuous Learning, My Goal Is To Contribute To Innov
 Get resume
 
 
-/*--------------skills----------*/
-frontend 
-Html
-css
-javascript
+/*--------------skills----------*/<br>
+frontend <br>
+Html <br>
+css<br>
+javascript <br>
 
 backend
 MySQL
