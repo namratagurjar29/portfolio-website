@@ -7,8 +7,8 @@ skills<br>
 protfolio<br>
 
 
-Hi, I'm Namrata Gurjar
-Web Developer
+Hi, I'm Namrata Gurjar<br>
+Web Developer<br>
 A Fast Learner With A Passion For Technology, And A Strong Desire To Learn And Implement It. Possess A Curious Mind To Explore New Possibilities And Act On Them.
 
 /*-----about------*/<br>
