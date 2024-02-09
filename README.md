@@ -1,7 +1,10 @@
 /*------------ Header---------*/
 ------------------------------------------------<br>
-Namrata Gurjar
-Home About skills protfolio
+Namrata Gurjar<br>
+Home <br>
+About<br>
+skills<br>
+protfolio<br>
 
 
 Hi, I'm Namrata Gurjar
