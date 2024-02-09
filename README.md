@@ -37,11 +37,11 @@ Github<br>
 
 
 /*-----------portfolio-------------*/<br>
-Web Developer
+Web Developer<br>
 As A Web Developer, I Bring Ideas To Life In The Digital Realm, Creating Dynamic And User-Friendly Websites. Proficient In A Range Of Technologies, 
 I Specialize In Crafting Responsive And Engaging Online Experiences, Ensuring Seamless Functionality And Optimal User Satisfaction.
 <br>
-Recent Work
+Recent Work<br>
 Revolutionize Your Web Applications With React, A Powerful JavaScript Library.
 By Utilizing Its Component-Based Architecture, React Ensures Efficient Rendering And Seamless Updates, Providing A Dynamic And Interactive User Experience. 
 Elevate Your Development Projects With React's Flexibility And Performance.
